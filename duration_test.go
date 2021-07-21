@@ -1,10 +1,10 @@
-package duration_test
+package iso8601duration_test
 
 import (
 	"testing"
 	"time"
 
-	duration "github.com/channelmeter/iso8601duration"
+	duration "github.com/cognitive-i/iso8601duration"
 	"github.com/stretchr/testify/assert"
 )
 
